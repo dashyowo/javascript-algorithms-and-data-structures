@@ -1,3 +1,5 @@
+// PALINDROME CHECKER 24032023
+
 function palindrome(str) {
     let newStr = str.toLowerCase().replace(/[\W_]/g, '');
     return newStr === newStr.split('').reverse().join('');

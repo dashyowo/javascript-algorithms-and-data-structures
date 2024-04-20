@@ -1,3 +1,5 @@
+// CASH REGISTER 24032023
+
 function checkCashRegister(price, cash, cid) {
     const currencyValues = {
       "PENNY": 0.01,
