@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <img src="https://i.imgur.com/aJ7jrQi.png" alt="freeCodeCamp logo" style="width: 100px; height: 100px; border-radius: 50%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: 100px; border-radius: 50%;">
 </div>
 <h1 align="center">JavaScript Algorithms and Data Structures</h1>
 <p align="center">Five (5) approved JavaScript-based examples of popular Algorithms and Data Structures.<br><br><code>Date Created: April 23, 2023</code> <code>Date Modified: N/A</code></p><br>
